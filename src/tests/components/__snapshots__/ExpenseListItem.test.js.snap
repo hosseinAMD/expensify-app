@@ -11,7 +11,7 @@ exports[`shou;d render individual expense itme 1`] = `
     </h3>
   </Link>
   <p>
-    25000 Rials
+    25,000 Rials
     --
     January 1st, 1970
   </p>
